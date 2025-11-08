@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/a-n-shreyas/movie_app",
+  "homepage": "https://a-n-shreyas.github.io/movie_app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
